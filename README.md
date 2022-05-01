@@ -19,6 +19,8 @@ Cisco 1841 Router
 2x Cisco Catalyst 3550 Series switches
 GPOE208 Switch
 
+My Default Gateway is the router the ISP gave me. Google Fiber.
+
 **DevOps**
 Source Code: Github
 CICD Pipeline: Jenkins
